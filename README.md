@@ -1,2 +1,2 @@
 # MapMyRun
-The repository for the mapMrRun project
+The repository for the mapMyRun project
